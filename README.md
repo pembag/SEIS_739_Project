@@ -14,7 +14,6 @@ Some big challenges I faced during the creation of this project was integrating 
 <img width="551" height="552" alt="Screenshot 2026-02-05 at 7 55 17 PM" src="https://github.com/user-attachments/assets/0733658e-341a-4e41-9440-7809c05dc4fc" />
 
 
-
 # Diagram for Database
 
 Schema
@@ -30,6 +29,8 @@ Data Model for List and Task using forward engineering.
 <img width="468" height="259" alt="image" src="https://github.com/user-attachments/assets/28f03c4c-142f-4a83-9d96-6080d8e0b3fb" />
 
 
-# Main Page Outline
+# Main Page Wireframe Outline
 ![main-page](https://github.com/user-attachments/assets/7a46572f-52be-4223-8ae6-8374a17eb611)
 
+# Result
+<img width="1353" height="963" alt="Screenshot 2026-06-23 at 2 14 11 PM" src="https://github.com/user-attachments/assets/b5ce5718-9cb1-483b-a039-e62be74c3a00" />
