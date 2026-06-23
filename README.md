@@ -34,8 +34,8 @@ Data Model for List and Task using forward engineering.
 
 # Result
 
-UI
+ - UI
 <img width="1353" height="963" alt="Screenshot 2026-06-23 at 2 14 11 PM" src="https://github.com/user-attachments/assets/b5ce5718-9cb1-483b-a039-e62be74c3a00" />
 
-MySQL DB
+ - MySQL DB
 <img width="867" height="703" alt="Screenshot 2026-06-23 at 2 21 47 PM" src="https://github.com/user-attachments/assets/d7fca8cf-9f67-41c4-b97b-a1e505647bd9" />
